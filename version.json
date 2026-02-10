@@ -1,6 +1,6 @@
 {
-  "min_version": "1.0.1",
-  "latest_version": "1.0.1",
+  "min_version": "2.0.0",
+  "latest_version": "2.0.0",
   "update_url": "https://github.com/Davidtzuke/orcha_release/releases",
   "message": "A new version of Orcha is available with important fixes. Please download the latest version to continue."
 }
